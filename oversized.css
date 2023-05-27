@@ -1,0 +1,42 @@
+.background { background-image: url(https://images.unsplash.com/photo-1570475735025-6cd1cd5c779d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80); 
+background-repeat: no-repeat;
+background-size: cover;
+}
+.logo {
+    height: 50px;
+    border-radius: 100%;
+}
+nav a {
+    position: relative;
+    right: 1%;
+    left: 90%;
+    bottom: 25%;
+    top: 0%;
+}
+#homelink{
+    position: relative;
+    top: 0;
+    right: 0;
+    background-color: #f5b2c5;
+    padding: 15px;
+    color: black;
+}
+.anime{
+    height: 250px;
+}
+.weeknd {
+    height: 250px;
+}
+.cartoon{
+    height: 250px;
+}
+.aot{
+    height: 250px;
+}
+.adventure{
+    height: 250px;
+}
+.table{
+    border-style: outset;
+    border-color: antiquewhite;
+}

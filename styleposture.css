@@ -1,0 +1,52 @@
+.background {
+    background-image: url("https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+.text {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #ffffff;
+    font-size: 40px;
+}
+.rdmore {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+    border: 16px;
+    background-color: #eea8a8;
+    height: 25px;
+    width: 80px;
+    border-color: black;
+}
+.rdmore:hover {
+    color: #FFF3E2;
+}
+nav a {
+    margin-right: 10px;
+    color: rgb(114, 49, 49);
+}
+.navigation:hover {
+    color: #E06469;
+}
+.tshirt {
+    
+    color: black;
+}
+.contactme {
+    color: black;
+    position: absolute;
+    left: 91%;
+    top: 5%;
+    background-color: rgb(247, 226, 224);
+    text-shadow: black;
+    text-decoration: solid;
+}
